@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>z-index: $1$0</string>
+	<string>display: block$0</string>
 	<key>name</key>
-	<string>z-index: index</string>
+	<string>display: block (short trigger)</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>
-	<string>z</string>
+	<string>dis</string>
 	<key>uuid</key>
-	<string>A0E6854B-0510-4DB5-ADBF-3995975FA69E</string>
+	<string>C0DA996E-DFD1-4A67-9717-68DB846F0A9C</string>
 </dict>
 </plist>

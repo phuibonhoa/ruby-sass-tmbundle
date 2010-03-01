@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>z-index: $1$0</string>
+	<string>+width_height(${1:width}, ${2:height})$0</string>
 	<key>name</key>
-	<string>z-index: index</string>
+	<string>+width_height</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>
-	<string>z</string>
+	<string>wh</string>
 	<key>uuid</key>
-	<string>A0E6854B-0510-4DB5-ADBF-3995975FA69E</string>
+	<string>3237774A-BA8D-4F00-8767-4CA5D0B46D00</string>
 </dict>
 </plist>

@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>z-index: $1$0</string>
+	<string>+position_absolute_top_left(${1:top}, ${2:left})</string>
 	<key>name</key>
-	<string>z-index: index</string>
+	<string>+position_absolute_top_left</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>
-	<string>z</string>
+	<string>patl</string>
 	<key>uuid</key>
-	<string>A0E6854B-0510-4DB5-ADBF-3995975FA69E</string>
+	<string>228F6633-8C98-4892-B3B5-83647392923E</string>
 </dict>
 </plist>
