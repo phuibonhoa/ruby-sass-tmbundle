@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>+position_absolute_top_left(${1:top}, ${2:left})</string>
+	<string>+position_absolute_top_left(${1:auto}, ${2:auto}, ${3:auto}, ${4:auto})</string>
 	<key>name</key>
-	<string>+position_absolute_top_left</string>
+	<string>+position_absolute</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>
-	<string>patl</string>
+	<string>pa</string>
 	<key>uuid</key>
 	<string>228F6633-8C98-4892-B3B5-83647392923E</string>
 </dict>
