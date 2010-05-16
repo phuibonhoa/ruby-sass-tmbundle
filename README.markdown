@@ -1,35 +1,34 @@
-## General Info
-This is a TextMate bundle for using the [Sass](http://sass-lang.com/) CSS replacement language.
+#Sass TextMate Bundle
 
-## Installation
-    
-    With Git:
-    
-    mkdir -p ~/Library/Application\ Support/TextMate/Bundles
-    cd ~/Library/Application\ Support/TextMate/Bundles
-    git clone git://github.com/phuibonhoa/ruby-sass-tmbundle.git "Ruby Sass.tmbundle"
-    osascript -e 'tell app "TextMate" to reload bundles'
+##Description
 
-## Credits
+####Changes
+ * <code>⌘⌥+C</code> converts selected text from CSS to SASS
+ * Updated so that comments are properly recognized
+ * Snippets properly add : after attribute
+ * Snippets from css bundle sassified
+ 
+##Installation
 
-Forked from (http://github.com/aussiegeek/ruby-sass-tmbundle/).
+1. $ `cd ~/Library/Application\ Support/TextMate/Bundles/`
+2. $ `git clone git://github.com/handcrafted/handcrafted-haml-textmate-bundle.git Haml.tmbundle`
+3. $ `osascript -e 'tell app "TextMate" to reload bundles'`
+ 
+##My Other Textmate Bundles
+My bundles work best when use in conjunction with my other bundles:
 
-Owner of the original bundle from which this was forked:
+ * Rails - [http://github.com/phuibonhoa/ruby-on-rails-tmbundle](http://github.com/phuibonhoa/ruby-on-rails-tmbundle)
+ * Ruby - [http://github.com/phuibonhoa/ruby-tmbundle](http://github.com/phuibonhoa/ruby-tmbundle)
+ * Shoulda - [http://github.com/phuibonhoa/ruby-shoulda-tmbundle](http://github.com/phuibonhoa/ruby-shoulda-tmbundle)
+ * HAML - [http://github.com/phuibonhoa/handcrafted-haml-textmate-bundle](http://github.com/phuibonhoa/handcrafted-haml-textmate-bundle)
+ * Sass - [http://github.com/phuibonhoa/ruby-sass-tmbundle](http://github.com/phuibonhoa/ruby-sass-tmbundle)
+ * JavaScript - [http://github.com/phuibonhoa/Javascript-Bundle-Extension](http://github.com/phuibonhoa/Javascript-Bundle-Extension)
+ * CTags - [http://github.com/phuibonhoa/tm-ctags-tmbundle](http://github.com/phuibonhoa/tm-ctags-tmbundle)
 
-[@aussiegeek](http://github.com/aussiegeek)
+##Credits
 
+By [Philippe Huibonhoa](http://github.com/phuibonhoa)
 
-Contributors to the original bundle from which this was forked:
+Original bundle can be found [here](http://github.com/aussiegeek/ruby-sass-tmbundle)
 
-[@agibralter](http://github.com/agibralter)
-[@choan](http://github.com/choan)
-[@giannichiappetta](http://github.com/giannichiappetta)
-[@gruner](http://github.com/gruner)
-[@mattpolito](http://github.com/mattpolito)
-[@mattsa](http://github.com/mattsa)
-[@mfilej](http://github.com/mfilej)
-[@squishtech](http://github.com/squishtech)
-[@tharealpatton](http://github.com/tharealpatton)
-[@trevorsmith](http://github.com/trevorsmith)
-
-
+Sass versions of css snippets pulled from James Conroy-Finn
