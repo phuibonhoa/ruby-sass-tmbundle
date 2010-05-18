@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>+position_absolute_top_left(${1:auto}, ${2:auto}, ${3:auto}, ${4:auto})</string>
+	<string>+position_absolute(${1:auto}, ${2:auto}, ${3:auto}, ${4:auto})</string>
 	<key>name</key>
 	<string>+position_absolute</string>
 	<key>scope</key>
