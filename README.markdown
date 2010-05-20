@@ -4,9 +4,11 @@
 
 ####Changes
  * <code>⌘⌥+C</code> converts selected text from CSS to SASS
+ * Added all css keywords to autocomplete list
  * Updated so that comments are properly recognized
  * Snippets properly add : after attribute
  * Snippets from css bundle sassified
+ * :⇥ prompts link pseudo classes
  
 ##Installation
 
